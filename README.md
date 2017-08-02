@@ -2,10 +2,21 @@
 
 ### About this project
 It displays information about users's potential homes. The website requests data from The New York Times API and Wikipedia API using jQuery's AJAX functions.
+
 See the finished website:[Move Planner](https://jj1201.github.io/Move-Planner/)
 
 ### What you can do
-Explore the application's HTML (./index.html), CSS (./css/style.css) and JavaScript (./js/script.js) to gain an understanding of how it works. your can also edit these files to add functionality of the application.
+Explore the application's HTML (./index.html), CSS (./css/style.css) and JavaScript (./js/script.js) to gain an understanding of how it works. 
+
+your can also edit these files to add functionality of the application.
+
+### References
+
+* [jQuery API Documentation](http://api.jquery.com/jquery.ajax/)
+* [Wikipedia API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
+* [New York Times API Documentation](https://developer.nytimes.com/)
+
+
 
 
 
